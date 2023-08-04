@@ -11,3 +11,4 @@ Repositório para armazenar resumos  sobre Git e Github do curso versionamento d
 |------|
 | Gravando as alterações no Repositório Local |
 | Criando e Clonado repositórios |
+| Enviando e baixando alterações com o Repositório Remoto |
